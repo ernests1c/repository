@@ -1,4 +1,10 @@
-Hello my name is Ernests\
-
-
-1c
+              Pomodoro taimeris
+Interfeisa ekrāna vidū ir liels hronometra taimeris
+Var sākt jaunu taimeri kad vēlās
+Lietotājs var izvēlēties vai viņš grib 25min taimeri, 15min, 10min vai 5min.
+Pirms sāk taimeri, lietotājs izvēlās vai viņš vēlās 5min atpūtu vai 15min atpūtu tad kad taimeris beigsies.
+Jābūt pogam kā apstādināt taimeri, pārmainīt minutes
+Lietotājs var ar tekstu ievadīt kādus darbus viņš ir izpildījis pa šo laiku, kopš taimeris ir sācies.
+Taimeri attēlo ar hronometru
+Taimeri var apstādināt jebkurā laikā
+Uzspiežot pogu blakus taimera sākumam, var arī ātrāk tikt pie 5min vai 15min atpūtas 
